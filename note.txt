@@ -1,0 +1,11 @@
+[Cluster Name]
+flask-ap
+
+[Account ID]
+864897371056
+
+[Role ARN]
+arn:aws:iam::864897371056:role/FlaskDeployCBKubectlRole
+
+[Deploy Role name]
+FlaskDeployCBKubectlRole
